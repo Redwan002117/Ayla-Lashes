@@ -3,9 +3,10 @@ E-commerce Website Development Project: Ayla Lashes
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github.com/Redwan002117/Ayla-Lashes/blob/main/Screenshot%202024-11-06%20180015.png" width="100%"/>
 </div>
 
-I'm excited to share a recently completed e-commerce website project for Ayla Lashes, a premium beauty brand specializing in luxury lash products.
+I'm excited to share a recently completed e-commerce website project for Ayla Lashes ( https://aylalashes.com/ ), a premium beauty brand specializing in luxury lash products.
 About the Client
 Ayla Lashes is a brand that offers high-quality, premium lash products. Their vision was to create an online shopping experience that matches the elegance and sophistication of their product line.
 The Website Project
@@ -43,4 +44,6 @@ Improved mobile shopping experience
 
 This project showcases how effective web development can enhance the online presence of a luxury beauty brand while driving business results.
 If you're interested in learning more about this project or discussing how I can help with your e-commerce website needs, please feel free to reach out.
+email: redwanrashidrico@gmail.com 
+
 #WebDevelopment #ECommerce #WebDesign #UXDesign #BeautyIndustry #Portfolio
